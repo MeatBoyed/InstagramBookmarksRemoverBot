@@ -2,6 +2,8 @@
 # Instagram Bookmark Remover Bot
 
 A bot which automatically removes all posts in a desired Instagram bookmarks collection.
+
+NOTE: This bot does not work for account which have any form of 2-Factor-Authentication. Please disable this feature in Settings > Security, and re-enable it once finished with the bot.
 ### Requirements
  - Latest version of Python3 must be installed
  - Ensure `venv` is installed (Should be by default with recent versions of Python3)
